@@ -101,6 +101,10 @@ project(":code/rumyantsev-alexander-vector3d").name = "rumyantsev-alexander-vect
 // Magazinnik Ivan, string-calculator
 include "code/string-calculator"
 project(":code/string-calculator").name = "string-calculator"
+// Magazinnik Ivan, string-calculator
+include "code/rumyantsev-alexander-vector3d"
+project(":code/rumyantsev-alexander-vector3d").name = "rumyantsev-alexander-vector3d"
+
 // Petrova Olia, string-calculator
 include "code/string-calculator"
 project(":code/string-calculator").name = "string-calculator"

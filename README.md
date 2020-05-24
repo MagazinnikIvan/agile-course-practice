@@ -35,6 +35,7 @@
 [lab-topics]:           https://docs.google.com/spreadsheets/d/1JXyJBOlLZ8yvMGVVAJ6U3uiH10mMzcm-6n77SWg3p9Q/edit#gid=154282983
 [labs]:                 https://github.com/UNN-VMK-Software/agile-course-practice/tree/master/docs
 [control-questions]:    https://github.com/UNN-VMK-Software/agile-course-theory/blob/master/slides/control-questions.md
+[questions]:            https://github.com/UNN-VMK-Software/agile-course-theory/blob/master/slides/control-questions.md
 [cheatsheet]:           https://docs.google.com/document/d/1QhdJOnSw-Gn_-WM9RWLzmxZMrWTB4EbyTkaNBWMGA3Y/edit
 [exam-questions]:       https://docs.google.com/spreadsheets/d/1JXyJBOlLZ8yvMGVVAJ6U3uiH10mMzcm-6n77SWg3p9Q/edit#gid=1728105479
 
