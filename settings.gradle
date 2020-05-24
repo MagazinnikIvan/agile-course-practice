@@ -101,6 +101,9 @@ project(":code/rumyantsev-alexander-vector3d").name = "rumyantsev-alexander-vect
 // Magazinnik Ivan, string-calculator
 include "code/string-calculator"
 project(":code/string-calculator").name = "string-calculator"
+// Magazinnik Ivan, string-calculator
+include "code/magazinnik-ivan-vector3d"
+project(":code/magazinnik-ivan-vector3d").name = "magazinnik-ivan-vector3d"
 
 // Stack
 include "code/stack"
